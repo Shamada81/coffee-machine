@@ -1,1 +1,1 @@
-# 0994
+First training project - coffee machine
